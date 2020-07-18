@@ -51,7 +51,7 @@
 
 ## 7 如何参与到 Py-Apple  Controller  开源项目开发团队中
 
--  Py-Apple Controller 项目是开源的，我们鼓励参与修改和贡献新的机械结构：[点击查看如何在Py-Apple Controller Github 仓库中贡献的指导](http://www.leggedrobot.cn/forum.php?mod=viewthread&tid=49&extra=page%3D1)
+-  Py-Apple Controller 项目是开源的，我们鼓励参与修改和贡献新的机械结构：[点击查看如何在Py-Apple Controller Github 仓库中贡献的指导](http://www.leggedrobot.cn/forum.php?mod=viewthread&tid=51)
 -  需要的功能设想和bug可以发布到 Issue list [点击进入 ISSUE LIST](https://github.com/ToanTech/py-apple-controller/issues)
 -  有其他参与问题需要联系项目管理及贡献者 ：[点击查看联系方式](contributors_m.md)
 
