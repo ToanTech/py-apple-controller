@@ -1,4 +1,4 @@
-# Py-Apple Controller 开源四足机械结构
+# Py-Apple Controller 开源四足万能控制器
 
 ## 1 简介
 
