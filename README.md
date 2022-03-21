@@ -55,13 +55,7 @@
 -  需要的功能设想和bug可以发布到 Issue list [点击进入 ISSUE LIST](https://github.com/ToanTech/py-apple-controller/issues)
 -  有其他参与问题需要联系项目管理及贡献者 ：[点击查看联系方式](contributors_m.md)
 
-## 8 开源协议
-
-**Py-Apple Controller**  项目采用 Apache 许可证，版本 2.0
-
-[点击查看完整协议文档](LICENSE)
-
-## 9 当前 Py-Apple  Controller  版本特点
+## 8 当前 Py-Apple  Controller  版本特点
 
   目前的最新的版本是 **Py-Apple Controller  V4.0** 。目前开源的版本是直插元器件的版本。实现的功能如下：
 
