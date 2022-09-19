@@ -34,7 +34,7 @@
 ## 4 Py-Apple Controller 项目搭建方法
 
 - 第一步：根据用途和需求，下载本 Github 中你需要 Controller 版本
-- 第二步：根据PCB文件，前往淘宝或者嘉力创打板
+- 第二步：根据PCB文件，前往淘宝或者[嘉立创](https://www.jlc.com/)打板
 - 第三步：根据开源配件表，配齐所有电控元器件
 - 第四步：根据[焊接教程](https://www.bilibili.com/video/BV1nv411B7d5)焊接万能控制器
 - 第五步 : 到[Py-Apple Dynamics 系列 开源四足控制软件](https://github.com/ToanTech/py-apple-dynamics)处，根据提示下载最新软件，并且按照[此教程](https://www.bilibili.com/video/BV1mv411B7dR)烧录程序。
